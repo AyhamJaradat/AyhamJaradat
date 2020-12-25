@@ -18,5 +18,5 @@ I am **Ayham Jaradat**, a developer from ✨ *Palestine* ✨  but living in ✨ 
 
 😄 And, no need to tell you about Object-Oriented, Java and Algorithms. But **I love them** 😄
 
-and BTW, I love these emojis 👯 🔭 🌱 ⚡ 📫 💬
+and BTW, I love these emojis too 👯 🔭 🌱 ⚡ 📫 💬
 
