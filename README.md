@@ -8,7 +8,7 @@ I am **Ayham Jaradat**, a developer from ✨ *Palestine* ✨  but living in ✨ 
 * Restfull APIs
 * MySql Databases
 * JavaScript, JQuery, HTML, CSS, Bootstrap
-* AngularJS
+* Angular
 
 🔭  Also, I've worked *HARD* on some hybrid and native mobile app development 
 * ionic framwork
